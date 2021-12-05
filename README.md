@@ -1,5 +1,5 @@
 Our app is a platform that focus on reducing the food waste using AI.
-
+Ai project link : https://colab.research.google.com/drive/1uCJE9OCRqZhMDNXd9r6sX3N_P01SXtnu?usp=sharing
 
 ![2](https://user-images.githubusercontent.com/55881180/144746082-53ec3cc0-bafc-40b3-8b49-a0f52634c2a2.png)
 ![3](https://user-images.githubusercontent.com/55881180/144746087-f3743585-0930-4011-a370-18bf551d3524.png)
